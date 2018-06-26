@@ -1,12 +1,11 @@
-_site/
-.DS_Store
-/.rbenv-version
-/vendor/gems/
-/bin/
-/.bundle/
-.sass-cache/
-*.*~
-_release
-*.map
-.jekyll-metadata
-# *.resume-burger-jokes
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
